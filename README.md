@@ -5,5 +5,5 @@
 
 ![makima0499 GitHub stats](https://github-readme-stats.vercel.app/api?username=makima0499&show_icons=true&theme=radical&count_private=true)
 
-[![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,azure,docker,kubernetes,ansible,linux,postgres,mongodb,prometheus,grafana&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,azure,docker,kubernetes,ansible,linux,postgres,mongodb,prometheus,grafana,kibana&perline=6)](https://skillicons.dev)
 
