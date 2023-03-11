@@ -1,8 +1,9 @@
-### Hi there, I'm Guilherme, Data Engineer 🧑🏻‍💻
+<h1 align="center">Hi 👋, I'm Guilherme Gomes</h1>
+<h3 align="center">Passionate for Data Engineer.</h3>
 
-Welcome to my repository! Here you will find a collection of projects that I have worked on as a data engineer. As a data engineer, my goal is to build and maintain robust data pipelines that can handle large volumes of data and support various data-driven applications.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makima0499" alt="makima0499" /></a> </p>
 
-My projects cover a wide range of topics, from real-time data processing and analysis to machine learning and data visualization. I use a variety of tools and technologies, including AWS, GCP, Python, SQL, and more, to build scalable and efficient data solutions.
+- 🔭 I’m currently working on **Data Engineer Projects**
 
 ![makima0499 GitHub stats](https://github-readme-stats.vercel.app/api?username=makima0499&show_icons=true&theme=radical&count_private=true)
 
