@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Engineer Projects**
 
-![makima0499 GitHub stats](https://github-readme-stats.vercel.app/api?username=makima0499&show_icons=true&theme=radical&count_private=true)
+![gomes0499 GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes0499&show_icons=true&theme=radical&count_private=true)
 
 [![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,azure,docker,kubernetes,ansible,linux,postgres,mongodb,prometheus,grafana&perline=6)](https://skillicons.dev)
 
