@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋 I'm Gomes</h1>
-<h2 align="About Me</h2>
+<h2>About Me</h2>
            
 <p>
   I'm an Economics student with a passion for Data Science, Engineering, and Quantitative Finance. Driven by curiosity, I'm always eager to explore new technologies and apply them to create data-driven solutions.
