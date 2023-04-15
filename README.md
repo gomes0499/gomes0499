@@ -9,7 +9,7 @@
 
 ![gomes0499 GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes0499&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomes0499&layout=compact&theme=radical)](https://github.com/gomes0499/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomes0499&layout=compact&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/gomes0499/github-readme-stats)
 
 <h2>Skills</h2>
 
