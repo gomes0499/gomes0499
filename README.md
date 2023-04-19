@@ -7,7 +7,7 @@
 
  
 
-![gomes0499 GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes0499&show_icons=true&theme=radical&count_private=false)
+![gomes0499 GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes0499&show_icons=true&theme=radical&count_private=true)
 
 
 <h2>Skills</h2>
