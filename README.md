@@ -7,7 +7,9 @@
 
  
 
-![gomes0499 GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes0499&show_icons=true&theme=radical&count_private=false)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gomes0499&repo=github-readme-stats" />
+</a>
 
 
 <h2>Skills</h2>
