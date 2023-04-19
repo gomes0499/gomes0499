@@ -7,8 +7,8 @@
 
  
 
-<a href="https://github.com/gomes0499/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gomes0499&repo=github-readme-stats" />
+<a href="https://github.com/gomes0499/github-gomes0499">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gomes0499&repo=github-gomes0499" />
 </a>
 
 
