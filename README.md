@@ -7,7 +7,7 @@
 
  
 
-![gomes0499 GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes0499&show_icons=true&theme=radical&count_private=false)
+how i can use this? <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gomes0499&theme=react&line_height=40&hide=css"/> </a>
 
 
 <h2>Skills</h2>
