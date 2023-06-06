@@ -14,5 +14,5 @@
 
 <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,azure,docker,kubernetes,ansible,linux,postgres,mongodb,prometheus,grafana&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,azure,docker,kubernetes,ansible,linux,postgres,mongodb,kafka,figma,githubactions,postman&perline=6)](https://skillicons.dev)
 
