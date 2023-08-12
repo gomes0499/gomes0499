@@ -2,7 +2,7 @@
 <h2>About Me</h2>
            
 <p>
-  Passionate for Data Science, Engineering, and Quantitative Finance. Driven by curiosity, I'm always eager to explore new technologies and apply them to create data-driven solutions.
+  Passionate for Data Engineering, Data Science, and Quantitative Finance. Driven by curiosity, I'm always eager to explore new technologies and apply them to create data-driven solutions.
 </p>
 
  
