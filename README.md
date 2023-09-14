@@ -8,8 +8,9 @@
  
 
 <a href="https://github.com/gomes0499">
-  <img align="center" src="github-readme-stats-ochre-six-49.vercel.app&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats-ochre-six-49.vercel.app/api?username=gomes0499&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
 </a>
+
 
 
 <h2>Skills</h2>
