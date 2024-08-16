@@ -11,4 +11,4 @@
 
 <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,typescript,nextjs,react,reactnative,tailwind,aws,gcp,azure,docker,kubernetes,linux,postgres,mongodb,kafka,figma,githubactions,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,reactnative,tailwind,go,typescript,aws,gcp,azure,docker,kubernetes,ansible,linux,postgres,mongodb,kafka,figma,githubactions,postman&perline=6)](https://skillicons.dev)
