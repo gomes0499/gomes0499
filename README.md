@@ -5,9 +5,7 @@
   Software Engineer with a strong focus on microservices. Driven by curiosity, I'm always eager to explore new technologies and apply them to create new solutions. My skill set includes full-stack development, cloud computing, and microservices architecture.
 </p>
 
-<a href="https://github.com/gomes0499">
-  <img align="center" src="https://github-readme-stats-ochre-six-49.vercel.app/api?username=gomes0499&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
-</a>
+![Golang GIF](https://raw.githubusercontent.com/gist/brudnak/6c21505423e4ff089ab704ec79b5a096/raw/b2d3dec32474b2121b179920734b259323a7c250/go.gif)
 
 <h2>Skills</h2>
 
