@@ -5,8 +5,7 @@
   Software Engineer with a strong focus on microservices. Driven by curiosity, I'm always eager to explore new technologies and apply them to create new solutions. My skill set includes full-stack development, cloud computing, and microservices architecture.
 </p>
 
-![Golang GIF](https://raw.githubusercontent.com/gist/brudnak/6c21505423e4ff089ab704ec79b5a096/raw/b2d3dec32474b2121b179920734b259323a7c250/go.gif)
 
 <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,go,typescript,python,aws,gcp,azure,docker,kubernetes,prometheus,grafana,linux,postgres,mongodb,redis,kafka,figma,githubactions,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,react,tailwind,go,typescript,python,aws,gcp,azure,docker,kubernetes,prometheus,grafana,linux,postgres,mongodb,redis,kafka,figma,githubactions,postman&perline=6)](https://skillicons.dev)
