@@ -8,4 +8,4 @@
 
 <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,typescript,python,aws,gcp,azure,docker,kubernetes,linux,postgres,mongodb,redis,kafka,figma,githubactions,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,python,nextjs,react,tailwind,nestjs,aws,gcp,azure,docker,kubernetes,linux,postgres,mongodb,redis,kafka,figma,githubactions,postman&perline=6)](https://skillicons.dev)
