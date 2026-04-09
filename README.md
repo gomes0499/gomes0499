@@ -1,6 +1,3 @@
-<h2 align="left">Hi</h2>
-<h2>About Me</h2>
-           
 <p>
  腐败如镜，照出人心之暗。
 </p>
