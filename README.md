@@ -1,8 +1,8 @@
-<h2 align="left">Hi 🧑🏻‍💻 I'm Gomes</h2>
+<h2 align="left">Hi</h2>
 <h2>About Me</h2>
            
 <p>
-  Software Engineer with a strong focus on microservices. Driven by curiosity, I'm always eager to explore new technologies and apply them to create new solutions. My skill set includes full-stack development, cloud computing, and microservices architecture.
+ 腐败如镜，照出人心之暗。
 </p>
 
 
